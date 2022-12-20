@@ -1,0 +1,71 @@
+
+table.first {
+    border: 2px rgb(119, 117, 115);
+    width: 80%;
+    position: absolute;
+    top: 165px;
+    left: 180px;
+ }
+
+table.second {
+    width: 80%;
+    position: absolute;
+    top: 590px;
+    left: 180px;
+}
+
+table.third {
+    width: 80%;
+    position: absolute;
+    top: 1250px;
+    left: 180px;
+}
+
+ th {
+    border: 2px solid rgb(160, 155, 148);
+    height: 40px;
+    text-align:center;
+    background-color: rgb(197, 193, 187);;
+ }
+
+ td {
+    border: 0.5px solid black;
+    height: 50px;
+    text-align:center;
+    font-size: 19px;
+    background-color: rgb(241, 238, 238);
+ }
+
+ div.caption_1 {
+    position:absolute;
+    top: 95px;
+    left: 790px;
+    font-size: 30px;
+ }
+
+ div.caption_2 {
+    position: absolute;
+    top: 520px;
+    left: 755px;
+    font-size: 30px;
+ }
+
+ div.caption_3 {
+    position: absolute;
+    top: 1170px;
+    left: 745px;
+    font-size: 30px;
+ }
+
+ div.conclusion {
+    position: absolute;
+    top: 1830px;
+    font-size: 30px;
+    width: 80%;
+    left: 190px;
+ }
+
+ body {
+    width: 100%;
+    height: 2400px;
+ }
